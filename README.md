@@ -14,7 +14,7 @@ _____________________________________________________________________
 ![different-programming-languages](https://github.com/user-attachments/assets/a19118cd-394c-4e77-9f4c-2e45da773bcc)
 My basic knowledge measn base are very strong why beucase you can watch my projects.
 ____________________________________________________________
-[Uploading what-is-artificial-intelligence-infographic.width-600.webp…]()
+![header-advocacy-artificial-intelligence](https://github.com/user-attachments/assets/6a60f8a4-8388-4840-9459-622ee3e27d58)
 After the get the knowledge about oops concept so start learning about the artificial intelligence and machine learning algorithm any you also watch my project.
 ____________________________________________________________
 _____________________________________________________________________
