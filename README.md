@@ -10,5 +10,8 @@ _____________________________________________________________________
 _____________________________________________________________________
 ![source](https://github.com/user-attachments/assets/75167e50-747e-40c8-8e49-29d8e0df604b)
 _____________________________________________________________________
-![C](https://github.com/user-attachments/assets/b9a3cd47-4759-42ea-804f-a1fcb13b22d9)
+_____________________________________________________________________
+![C_Programming_Language svg](https://github.com/user-attachments/assets/548eae9c-8628-48eb-8152-ec5dcbd9b52e)
+_____________________________________________________________________
+When few years ago the computer science district me so entered in the computer science field. so i start from scratch first programming. In the programming i start from base knowledge like whats the identifier? whats the literals and operator? without any programming of language pure base froma. Then i learn my first god of programming language that's name is the C programming language it's world most powerful programming why because it's syntax and concept are used in every programming language so i become the intermediate in C programming.
 _____________________________________________________________________
