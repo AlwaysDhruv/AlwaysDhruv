@@ -1,7 +1,9 @@
 
-![My Animation](https://raw.githubusercontent.com/AlwaysDhruv/Animation/main/hello-gif-15.gif)
+![giphy](https://github.com/user-attachments/assets/59bddb43-3ae6-42c0-ab89-04d9b8b1920c)
 
+=================================================================================================================================================
 
+=================================================================================================================================================
 - 👋 Hi, My self Dhruv Sonavane 
 - 👀 I’m interested in information technology industry in the ai,ml,software engineering,internet of thinks,computer hardware.
 - 🌱 I’m currently learning about ai or ml
