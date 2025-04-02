@@ -1,5 +1,6 @@
-=============================
+=====================================================================
 ![1704833813017](https://github.com/user-attachments/assets/7498e9c5-e7c7-4a13-ad5e-92799284e492)
+_____________________________________________________________________
 - 👋 Hi, My self Dhruv Sonavane 
 - 👀 I’m interested in information technology industry in the ai,ml,software engineering,internet of thinks,computer hardware.
 - 🌱 I’m currently learning about ai or ml
