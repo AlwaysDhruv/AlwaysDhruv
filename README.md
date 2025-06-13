@@ -1,5 +1,5 @@
 _____________________________________________________________________
-![3AyY](https://github.com/user-attachments/assets/b1b1555e-d0a1-4f7c-a54e-e77680d4b702)
+![1_CKA3srp7c0EHwI-xJ20sjw](https://github.com/user-attachments/assets/56ae2000-6c71-4df9-bae0-1d1625c1ec09)
 _____________________________________________________________________
 - 👋 Hi, My self Dhruv B. Sonavane.
 - 🌱 Currently learning about Artificial And Intelligences And Machine Learning.
