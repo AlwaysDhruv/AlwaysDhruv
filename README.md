@@ -9,13 +9,15 @@ _____________________________________________________________________
 - 😄 Pronouns: AlwaysDhruv
 _____________________________________________________________________
 ![source](https://github.com/user-attachments/assets/75167e50-747e-40c8-8e49-29d8e0df604b)
+_____________________________________________________________________
 When start the Machine-learning-Engineering so i start from scratch and i developed that regression and algorithm from scratch using C++ or python without using ai\ml packeges. You can watch my project on repository form. And i get best experience from that.
 ____________________________________________________________
 ![header-advocacy-artificial-intelligence](https://github.com/user-attachments/assets/6a60f8a4-8388-4840-9459-622ee3e27d58)
-After the get the knowledge about oops concept so start learning about the artificial intelligence and machine learning algorithm any you also watch my project.
+_____________________________________________________________________
+Every type of field have get new innovation so the learining are very important.
 ____________________________________________________________
 _____________________________________________________________________
-![images](https://github.com/user-attachments/assets/7821fb51-e426-425f-9c0c-66bddcfc6c97)
+![giphy](https://github.com/user-attachments/assets/1dbc8e8b-1c10-4198-9b7d-e4be4342f728)
 ____________________________________________________________
 My goal i want's to integrate my experience with business to start our IT company with helping ideas to solve the problem. So you have any idea you can contact me on linkedin.
 ____________________________________________________________
