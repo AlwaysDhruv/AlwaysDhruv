@@ -1,5 +1,5 @@
 _____________________________________________________________________
-![@2x-Blog-Continuous-Learning-Update-animation](https://github.com/user-attachments/assets/777a22a3-c58e-4852-bf13-1a06d112b322)
+![cerveau-temps](https://github.com/user-attachments/assets/b2d2910a-f5d0-4b0d-bccc-375f02060a32)
 _____________________________________________________________________
 
 - 👋 Hi, My self Dhruv B. Sonavane.
