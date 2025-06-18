@@ -1,5 +1,5 @@
 _____________________________________________________________________
-![OiY](https://github.com/user-attachments/assets/9dba65aa-9180-4f13-bb18-6ee000098b36)
+![@2x-Blog-Continuous-Learning-Update-animation](https://github.com/user-attachments/assets/777a22a3-c58e-4852-bf13-1a06d112b322)
 _____________________________________________________________________
 
 - 👋 Hi, My self Dhruv B. Sonavane.
