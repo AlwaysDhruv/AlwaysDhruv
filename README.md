@@ -1,5 +1,5 @@
 _____________________________________________________________________
-![cerveau-temps](https://github.com/user-attachments/assets/b2d2910a-f5d0-4b0d-bccc-375f02060a32)
+![1_dXZlIr4SkImf5KC_eYhLKw](https://github.com/user-attachments/assets/0e6661e6-e3d2-4a4b-a747-112fb9eaaedd)
 _____________________________________________________________________
 
 - 👋 Hi, My self Dhruv B. Sonavane.
