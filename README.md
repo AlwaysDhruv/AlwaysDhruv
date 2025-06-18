@@ -1,6 +1,7 @@
 _____________________________________________________________________
-![OyGx](https://github.com/user-attachments/assets/9e4ba52f-d5c0-4942-9b3c-081f07aaab54)
+![OiY](https://github.com/user-attachments/assets/9dba65aa-9180-4f13-bb18-6ee000098b36)
 _____________________________________________________________________
+
 - 👋 Hi, My self Dhruv B. Sonavane.
 - 🌱 Currently learning about Artificial And Intelligences And Machine Learning.
 - 👀 Interested in information technology industry in the Business, AI, ML, Computer Hardware && Software Engineering, Internet Of Things(IOT), Spirituality, Books, Article's, Research. 
