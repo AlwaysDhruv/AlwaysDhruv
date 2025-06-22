@@ -22,4 +22,5 @@ _____________________________________________________________________
 ____________________________________________________________
 My goal i want's to integrate my experience with business to start our IT company with helping ideas to solve the problem. So you have any idea you can contact me on linkedin.
 ____________________________________________________________
+================================
 Thanks!!
