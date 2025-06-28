@@ -13,7 +13,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 When start the Machine-learning-Engineering so i start from scratch and i developed that regression and algorithm from scratch using C++ or python without using ai\ml packeges. You can watch my project on repository form. And i get best experience from that.
 ____________________________________________________________
-![aed11d6975231b91c8e992c02b8376da](https://github.com/user-attachments/assets/4fe034d0-2281-4105-96ee-b7d6e8c2e958)
+![1_63sGPbvLLpvlD16hG1bvmA](https://github.com/user-attachments/assets/ab4e123c-9e35-4832-8687-987699df33b9)
 _____________________________________________________________________
 Every type of field have get new innovation so the learining are very important. That's why i am now learning about ai ot ml. you can watch my project that i used the machine learning algotithm and convert that into the code and make ai models. Mostly i used C++ for ai engines for create and train the model and predict also.
 ____________________________________________________________
