@@ -24,8 +24,7 @@ Every type of field have get new innovation so the learining are very important.
 ____________________________________________________________
 ![772e53b4d9b8865403b8032cfb680836](https://github.com/user-attachments/assets/bdc8b47b-2fab-45ef-bd6d-bfd69c088d52)
 ____________________________________________________________
-My goal i want's to integrate my experience with business to start our IT company with helping ideas to solve the problem. So you have any idea you can contact me on linkedin.
-____________________________________________________________
+My goal i want's to integrate my experience with business to start our IT company with helping ideas to solve the problem. So you have any idea you can contact me on linkedin. We start together Also
 ************
-Thanks!!
+![604fe5775c0cb35f38a37fc8_ThankYou_header](https://github.com/user-attachments/assets/0bf2f6a2-5dfa-44d9-8b4f-f03ca96cab4b)
 ************
