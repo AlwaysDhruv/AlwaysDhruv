@@ -13,7 +13,9 @@ _____________________________________________________________________
 _____________________________________________________________________
 When start the Machine-learning-Engineering so i start from scratch and i developed that regression and algorithm from scratch using C++ or python without using ai\ml packeges. You can watch my project on repository form. And i get best experience from that.
 ____________________________________________________________
-![XSgpcs0](https://github.com/user-attachments/assets/b9925ae2-893d-4363-b5f6-68915f21435d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9925ae2-893d-4363-b5f6-68915f21435d" alt="Demo GIF" />
+</p>
 ____________________________________________________________
 My favourite programming language is the C++. Why because that are every code have scratching style code and syntax also. And C++ are every tyoe of work can do like software development, Artificial-intelligence machien learning model, Gane development etc.
 Mostly frameworks are developed in C\C++ because it's low level control.
