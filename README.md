@@ -1,5 +1,5 @@
 _____________________________________________________________________
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5135bc81-3d2b-4c3c-b6ce-3aa176e24e84)
+![giphy](https://github.com/user-attachments/assets/c9eaaecb-2721-4ad1-b461-f4d37446fa29)
 _____________________________________________________________________
 
 - 👋 Hi, My self Dhruv B. Sonavane.
