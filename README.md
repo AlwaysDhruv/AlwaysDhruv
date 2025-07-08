@@ -17,12 +17,13 @@ ____________________________________________________________
 </p>
 
 ____________________________________________________________
-My favourite programming language is the C++. Why because that are every code have scratching style code and syntax also. And C++ are every tyoe of work can do like software development, Artificial-intelligence machien learning model, Gane development etc.
+My favourite programming language is the C++. Why because that are every code have scratching style code and syntax also. And C++ are every tyoe of work can do like software development, Artificial-intelligence machien learning model, Game-
+development etc.
 Mostly frameworks are developed in C\C++ because it's low level control.
 ____________________________________________________________
 ![1_SWDxOQ75LU_kGLfZe2cPBA](https://github.com/user-attachments/assets/69859d2a-8b7c-4ecd-87a9-bfd0f662a6f2)
 _____________________________________________________________________
-Every type of field have get new innovation so the learining are very important. That's why i am now learning about ai ot ml. you can watch my project that i used the machine learning algotithm and convert that into the code and make ai models. Mostly i used C++ for ai engines for create and train the model and predict also.
+Every type of field have get new innovation so the learining are very important. That's why i am now learning about ai ot ml. you can watch my project that i used the machine learning algotithm and convert that into the code and make ai models. Mostly i used C++ for ai engines for create and train the model for predict accurate output.
 ____________________________________________________________
 ![772e53b4d9b8865403b8032cfb680836](https://github.com/user-attachments/assets/bdc8b47b-2fab-45ef-bd6d-bfd69c088d52)
 ____________________________________________________________
