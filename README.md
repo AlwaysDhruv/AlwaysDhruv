@@ -21,7 +21,7 @@ My favourite programming language is the C++. Why because that are every code ha
 development etc.
 Mostly frameworks are developed in C\C++ because it's low level control.
 ____________________________________________________________
-![1_SWDxOQ75LU_kGLfZe2cPBA](https://github.com/user-attachments/assets/69859d2a-8b7c-4ecd-87a9-bfd0f662a6f2)
+![0_KQAzRY_f10I8nM_B](https://github.com/user-attachments/assets/30835998-d24a-46ed-bec7-eca383f9b822)
 _____________________________________________________________________
 Every type of field have get new innovation so the learining are very important. That's why i am now learning about ai ot ml. you can watch my project that i used the machine learning algotithm and convert that into the code and make ai models. Mostly i used C++ for ai engines for create and train the model for predict accurate output.
 ____________________________________________________________
