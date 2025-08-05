@@ -6,7 +6,7 @@ _____________________________________________________________________
 - 🌱 Currently learning about Artificial And Intelligences And Machine Learning.
 - 👀 Interested in information technology industry in the Business, AI, ML, Computer Hardware && Software Engineering, Internet Of Things(IOT), Spirituality, Books, Article's, Research.
 - ⚡ My Believes: First Spirituality then after science&&technology.
-- 😄 Pronouns: Dhruv
+- 😄 Pronouns: Dhruva
 _____________________________________________________________________
 ![source](https://github.com/user-attachments/assets/75167e50-747e-40c8-8e49-29d8e0df604b)
 _____________________________________________________________________
