@@ -23,7 +23,7 @@ Mostly frameworks are developed in C\C++ because it's low level control.
 ____________________________________________________________
 ![0_KQAzRY_f10I8nM_B](https://github.com/user-attachments/assets/30835998-d24a-46ed-bec7-eca383f9b822)
 _____________________________________________________________________
-Every type of field have get new innovation so the learining are very important. That's why i am now learning about ai ot ml. you can watch my project that i used the machine learning algotithm and convert that into the code and make ai models. Mostly i used C++ for ai engines for create and train the model for predict accurate output.
+Every type of field have get new innovation so the learining are very important. That's why i am now learning about ai. you can watch my project that i used the machine learning algotithm and convert that into the code and make ai models. Mostly i used C++ for ai engines for create and train the model for predict accurate output.
 ____________________________________________________________
 ![772e53b4d9b8865403b8032cfb680836](https://github.com/user-attachments/assets/bdc8b47b-2fab-45ef-bd6d-bfd69c088d52)
 ____________________________________________________________
