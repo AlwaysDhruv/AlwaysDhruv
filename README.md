@@ -1,5 +1,7 @@
 _____________________________________________________________________
-![giphy](https://github.com/user-attachments/assets/e115c32c-4b09-4958-9f79-9f5eb75466a3)
+<p align="center" width="20px>
+  ![giphy](https://github.com/user-attachments/assets/e115c32c-4b09-4958-9f79-9f5eb75466a3)
+</p>
 _____________________________________________________________________
 
 - 👋 Hi, My self Dhruv B. Sonavane.
@@ -15,7 +17,6 @@ ____________________________________________________________
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b9925ae2-893d-4363-b5f6-68915f21435d" alt="Demo GIF" />
 </p>
-
 ____________________________________________________________
 My favourite programming language is the C++. Why because that are every code have scratching style code and syntax also. And C++ are every tyoe of work can do like software development, Artificial-intelligence machien learning model, Game-
 development etc.
