@@ -4,7 +4,7 @@ _____________________________________________________________________
 
 - 👋 Hi, My self Dhruv B. Sonavane.
 - 🌱 Currently learning about Artificial And Intelligences And Machine Learning.
-- 👀 Interested in information technology industry in the Business, AI, ML, Computer Hardware && Software Engineering, Internet Of Things(IOT), Spirituality, Books, Article's, Research.
+- 👀 Interested in information technology industry in the science, Business, AI, ML, Computer Hardware && Software Engineering, Internet Of Things(IOT), Spirituality, Books, Article's, Research.
 - ⚡ My Believes: First Spirituality then after science&&technology.
 - 😄 Pronouns: Dhruva
 _____________________________________________________________________
