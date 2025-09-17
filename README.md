@@ -45,7 +45,7 @@ Continuous learning is crucial as every field is constantly innovating. That's w
 ### 💻 Favorite Technology
 
 My favorite programming language is **C++**. I appreciate its "from-scratch" nature and syntax. C++ is versatile and can be used for:
-- Software Development
+- Ai Researching / Engineering
 - AI/ML Models
 - Game Development
 - And much more...
