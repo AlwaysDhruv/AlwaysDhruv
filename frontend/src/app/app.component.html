@@ -1,0 +1,50 @@
+<div class="layout">
+  <aside class="sidebar">
+    <div class="header-row">
+      <h2>TextGen-AI</h2>
+      <button (click)="newChat()">+ New</button>
+    </div>
+
+    <ul>
+      <li
+        *ngFor="let chat of chats"
+        [class.active]="activeChat?._id === chat._id"
+        (click)="selectChat(chat._id)"
+      >
+        <span>{{ chat.title || 'New Chat' }}</span>
+      </li>
+    </ul>
+  </aside>
+
+  <main class="chat-panel">
+    <div *ngIf="error" class="error">{{ error }}</div>
+
+    <div class="messages" *ngIf="activeChat; else emptyState">
+      <div
+        class="msg"
+        *ngFor="let msg of activeChat.messages"
+        [class.user]="msg.role === 'user'"
+        [class.assistant]="msg.role === 'assistant'"
+      >
+        <strong>{{ msg.role === 'user' ? 'You' : 'Gemini' }}:</strong>
+        <p>{{ msg.content }}</p>
+      </div>
+    </div>
+
+    <ng-template #emptyState>
+      <div class="empty">Create a new chat to begin.</div>
+    </ng-template>
+
+    <form class="composer" (ngSubmit)="sendMessage()">
+      <textarea
+        [(ngModel)]="prompt"
+        name="prompt"
+        rows="3"
+        placeholder="Ask anything..."
+      ></textarea>
+      <button type="submit" [disabled]="loading || !prompt.trim()">
+        {{ loading ? 'Sending...' : 'Send' }}
+      </button>
+    </form>
+  </main>
+</div>

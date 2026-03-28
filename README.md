@@ -1,36 +1,78 @@
+# TextGen-AI (Angular + Node.js + MongoDB + Gemini)
 
-_____________________________________________________________________
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/5135bc81-3d2b-4c3c-b6ce-3aa176e24e84)
-_____________________________________________________________________
+A full-stack AI chat project that uses:
+- **Frontend:** Angular (standalone components)
+- **Backend:** Node.js + Express
+- **Database:** MongoDB (local instance)
+- **LLM Provider:** Google Gemini API key
 
-- 👋 Hi, My self Dhruv B. Sonavane.
-- 🌱 Currently learning about Artificial And Intelligences And Machine Learning.
-- 👀 Interested in information technology industry in the science, Business, AI, ML, Computer Hardware && Software Engineering, Internet Of Things(IOT), Spirituality, Books, Article's, Research.
-- ⚡ My Believes: First Spirituality then after science&&technology.
-- 😄 Pronouns: Dhruva
-_____________________________________________________________________
-![source](https://github.com/user-attachments/assets/75167e50-747e-40c8-8e49-29d8e0df604b)
-_____________________________________________________________________
-When start the Machine-learning-Engineering so i start from scratch and i developed that regression and algorithm from scratch using C++ or python without using ai\ml packeges. You can watch my project on repository form. And i get best experience from that.
-____________________________________________________________
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b9925ae2-893d-4363-b5f6-68915f21435d" alt="Demo GIF" />
-</p>
+## Project Structure
 
-____________________________________________________________
-My favourite programming language is the C++. Why because that are every code have scratching style code and syntax also. And C++ are every tyoe of work can do like software development, Artificial-intelligence machien learning model, Game-
-development etc.
-Mostly frameworks are developed in C\C++ because it's low level control.
-____________________________________________________________
+```
+.
+├── backend
+│   ├── src
+│   │   ├── config/db.js
+│   │   ├── controllers/chatController.js
+│   │   ├── models/Chat.js
+│   │   ├── routes/chatRoutes.js
+│   │   └── server.js
+│   └── .env.example
+└── frontend
+    └── src
+        └── app
+```
 
-![0_OO8jkWCl5pbP66Qr](https://github.com/user-attachments/assets/b5d07cc7-603e-4f69-b6bb-1cb781155004)
+## 1) Run MongoDB locally
 
-_____________________________________________________________________
-Every type of field have get new innovation so the learining are very important. That's why i am now learning about ai. you can watch my project that i used the machine learning algotithm and convert that into the code and make ai models. Mostly i used C++ for ai engines for create and train the model for predict accurate output.
-____________________________________________________________
-![772e53b4d9b8865403b8032cfb680836](https://github.com/user-attachments/assets/bdc8b47b-2fab-45ef-bd6d-bfd69c088d52)
-____________________________________________________________
-I am in interested in world to understand them and create system for humanity for innovative and helpful.
-************
-![604fe5775c0cb35f38a37fc8_ThankYou_header](https://github.com/user-attachments/assets/0bf2f6a2-5dfa-44d9-8b4f-f03ca96cab4b)
-************
+Make sure MongoDB is running on:
+
+`mongodb://127.0.0.1:27017/textgen_ai`
+
+If needed, update the URI in `backend/.env`.
+
+## 2) Backend Setup
+
+```bash
+cd backend
+cp .env.example .env
+```
+
+Set your Gemini API key in `backend/.env`:
+
+```env
+GEMINI_API_KEY=your_real_gemini_api_key
+```
+
+Install and start backend:
+
+```bash
+npm install
+npm run dev
+```
+
+Backend base URL: `http://localhost:5000`
+
+## 3) Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+Frontend URL: `http://localhost:4200`
+
+## API Endpoints
+
+- `GET /api/health`
+- `GET /api/chats`
+- `POST /api/chats`
+- `GET /api/chats/:id`
+- `POST /api/chats/:id/message`
+
+## Notes
+
+- Chat messages are saved in MongoDB.
+- The backend calls Gemini using your API key and returns model replies.
+- CORS is enabled for local development.
